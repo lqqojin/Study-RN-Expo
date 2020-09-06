@@ -1,0 +1,19 @@
+{
+  "name": "study-rn-expo",
+  "version": "1.0.0",
+  "description": "엑스포 사용하기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqojin/Study-RN-Expo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lqqojin/Study-RN-Expo/issues"
+  },
+  "homepage": "https://github.com/lqqojin/Study-RN-Expo#readme"
+}
